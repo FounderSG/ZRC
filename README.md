@@ -8,5 +8,7 @@ Remote control hardware support both IR and BLE, remote control can send IR on k
 Traditional universal IR remote is hard to use, mainly due to limited user interface, the user have to use magic key sequences to setup, the only feedback is LED blinking. with smart phone app as a front end, it is much easier to locate IR function you wanted, hence a much easier setup experience.
 ### Supproted hardware
 Currently the only supported hardware is Ti reference remote CC2650RC. Use Ti Flash Programmer to program cc2650zrc.hex, the hex file can be found in firmware folder. 
+### App
+Download [FzRemote](http://appstore.com/fzremote) from App Store.
 ### Known problems
 CC2650RC IR signal is quite weak, the IR angle is also quite small, it is not a good remote in IR point of view.
